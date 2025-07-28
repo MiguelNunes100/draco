@@ -1,0 +1,3 @@
+PySimpleGUI
+Flask
+google-generativeai
